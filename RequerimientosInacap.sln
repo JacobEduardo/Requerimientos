@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequerimientosInacap", "RequerimientosInacap\RequerimientosInacap.csproj", "{35BA5BC2-CCCC-4A98-9ABB-A2CA1B373082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BA5BC2-CCCC-4A98-9ABB-A2CA1B373082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BA5BC2-CCCC-4A98-9ABB-A2CA1B373082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BA5BC2-CCCC-4A98-9ABB-A2CA1B373082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BA5BC2-CCCC-4A98-9ABB-A2CA1B373082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD1F3C7-96BA-4AB0-8C48-EF0ECCE8E68C}
+	EndGlobalSection
+EndGlobal
